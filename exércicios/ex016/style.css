@@ -4,10 +4,29 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-p{
-    text-align: justify;
+body{
+    background-image: linear-gradient(to right, #005C53, #9FC131);
 }
 
-body{
-    
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #0429407e;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: #042940;
+    text-align: center;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.537);
+}
+
+h2{
+    color: #8b9a1b;
+}
+
+p{
+    text-align: justify;
 }
