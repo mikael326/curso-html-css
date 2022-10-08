@@ -1,15 +1,23 @@
 *{
-   /* margin: 0px;
+    margin: 0px;
     padding: 0px;
-    box-sizing: border-box;*/
+    box-sizing: border-box;
 }
 
 body{
-    background-color: rgb(170, 231, 170);
+    
 }
-footer{
-
+header{
+    background-image: linear-gradient(to bottom, lightgreen, green);
+    text-align: center;
+    
 }
-main{
-    background-color: white;
+header > p{
+    margin-bottom: 30px;
+}
+li{
+    margin-right: 30px;
+    display: inline-block;
+    text-align: left;
+    
 }
