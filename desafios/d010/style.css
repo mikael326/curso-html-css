@@ -6,48 +6,5 @@
 }
 body{
     background-color: lightgreen;
-   font-family: 'idroid';
-   
-}
-main{
-    background-color: white;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 10px;
-    
-}
-
-header{
-    background-image: linear-gradient(to bottom, lightgreen, green); 
-    text-align: center; 
-}
-header > h1{
-    padding-bottom: 5px;
-    font-weight: bold;
-}
-header > p{
-    margin-bottom: 30px;
-    font-weight: bold;
-}
-nav{
-    text-align: left;
-   
-   
-}
-nav > a{
-    text-decoration: none;
-    color: white;
-    margin-left: 30px;
-    font-weight: bold;
-    
-}
-nav > a:hover{
-    text-decoration: underline;
-}
-
-article >h3{
-    background-color: green;
-}
-section{
-    background-color: rgb(120, 192, 120);
+    font-family: Arial, Helvetica, sans-serif;
 }
